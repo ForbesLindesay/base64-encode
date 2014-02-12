@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Encode base-64 strings with JavaScript",
   "main": "./server.js",
+  "browser": "./index.js",
   "scripts": {
     "test": "component-install && component-build -s b && mocha -R spec"
   },
@@ -12,6 +13,9 @@
   },
   "author": "ForbesLindesay",
   "license": "MIT",
+  "dependencies": {
+    "utf8-encode": "ForbesLindesay/utf8-encode#1.0.0"
+  },
   "devDependencies": {
     "component": "*",
     "mocha": "*",
