@@ -20,5 +20,6 @@
     "component": "*",
     "mocha": "*",
     "better-assert": "*"
-  }
+  },
+  "files": ["index.js", "server.js"]
 }
