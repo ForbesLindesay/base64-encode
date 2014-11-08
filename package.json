@@ -1,6 +1,6 @@
 {
   "name": "base64-encode",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Encode base-64 strings with JavaScript",
   "main": "./server.js",
   "browser": "./index.js",

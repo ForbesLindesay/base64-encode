@@ -2,7 +2,7 @@
   "name": "base64-encode",
   "repo": "ForbesLindesay/base64-encode",
   "description": "Encode base-64 strings with JavaScript",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "keywords": [],
   "dependencies": {
     "ForbesLindesay/utf8-encode": "*"
