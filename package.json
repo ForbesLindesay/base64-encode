@@ -14,7 +14,7 @@
   "author": "ForbesLindesay",
   "license": "MIT",
   "dependencies": {
-    "utf8-encode": "ForbesLindesay/utf8-encode#1.0.0"
+    "utf8-encode": "1"
   },
   "devDependencies": {
     "component": "*",
