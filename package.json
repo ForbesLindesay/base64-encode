@@ -19,7 +19,7 @@
   "devDependencies": {
     "component": "*",
     "mocha": "*",
-    "better-assert": "*"
+    "better-assert": "1.0.1"
   },
   "files": ["index.js", "server.js"]
 }
